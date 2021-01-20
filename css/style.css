@@ -1,0 +1,31 @@
+header {
+  height: 200px;
+  background-color: #f08a5d;
+}
+
+h1 {
+  color: yellowgreen;
+}
+
+/*
+footer {
+  background-color: #444;
+  h4 {
+    color: red;
+    a {
+      color: blue;
+    }
+  }
+}
+*/
+section {
+  height: 200px;
+  background-color: #b83b5e;
+}
+
+footer {
+  height: 200px;
+  background-color: #6a2c70;
+}
+
+/*# sourceMappingURL=style.css.map */

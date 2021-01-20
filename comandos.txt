@@ -1,0 +1,1 @@
+sass --watch sass:css              //carpeta origen : carpeta donde se compilara    Estar en raiz
